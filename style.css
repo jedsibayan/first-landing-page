@@ -51,6 +51,12 @@ ul{
     color: white;
 }
 
+h1{
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
+
 button {
     background-color: #3882F6;
     color: white;
